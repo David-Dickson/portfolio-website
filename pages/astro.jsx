@@ -18,7 +18,7 @@ const twitch = () => {
         />
         <div className="absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2">
           <h2 className="py-2">Astro Crash Course</h2>
-          <h3>Astro / Typescipt / Tailwind / Netlify</h3>
+          <h3>Astro / React / Tailwind / Netlify</h3>
         </div>
       </div>
 
@@ -58,7 +58,7 @@ const twitch = () => {
                 <RiRadioButtonFill className="pr-1" /> Astro
               </p>
               <p className="text-gray-600 py-2 flex items-center">
-                <RiRadioButtonFill className="pr-1" /> TypeScript
+                <RiRadioButtonFill className="pr-1" /> React
               </p>
               <p className="text-gray-600 py-2 flex items-center">
                 <RiRadioButtonFill className="pr-1" /> Tailwind
