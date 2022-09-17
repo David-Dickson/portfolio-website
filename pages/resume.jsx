@@ -75,12 +75,26 @@ const resume = () => {
           </p>
           <p className="py-2">
             <span className="font-bold">Server-Side</span>
+            <span className="px-2">|</span>Node.JS
             <span className="px-2">|</span>C#
             <span className="px-2">|</span>ASP.NET Core MVC
-            <span className="px-2">|</span>Node.JS
             <span className="px-2">|</span>ADO.NET
             <span className="px-2">|</span>Transact-SQL
             <span className="px-2">|</span>RESTful API
+          </p>
+          <p className="py-2">
+            <span className="font-bold">Tools</span>
+            <span className="px-2">|</span>GitHub
+            <span className="px-2">|</span>Git
+            <span className="px-2">|</span>Trello
+            <span className="px-2">|</span>Chrome Developer Tools
+            <span className="px-2">|</span>Postman API
+            <span className="px-2">|</span>Agile Methodologies
+            <span className="px-2">|</span>Software Development Life Cycle
+            (SDLC)
+            <span className="px-2">|</span>Object-Oriented Programming (OOP)
+            <span className="px-2">|</span>Data Structures
+            <span className="px-2">|</span>Algorithms
           </p>
         </div>
 
