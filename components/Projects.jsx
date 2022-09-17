@@ -3,6 +3,7 @@ import Link from "next/link";
 import React from "react";
 
 import astroImg from "../public/assets/projects/astro.png";
+import mediumImg from "../public/assets/projects/medium.png";
 import ProjectItem from "./ProjectItem";
 
 const Projects = () => {
@@ -13,12 +14,20 @@ const Projects = () => {
           Projects
         </p>
         <h2 className="py-4">What I&apos;ve Built</h2>
-        <div className="grid md:grid-cols-1 gap-8">
+        <div className="grid md:grid-cols-1 py-6 gap-8">
           <ProjectItem
             title="Astro Crash Course"
             backgroundImg={astroImg}
             projectUrl="/astro"
             tech="Built with Astro"
+          />
+        </div>
+        <div className="grid md:grid-cols-1 gap-8">
+          <ProjectItem
+            title="Medium Blog Clone"
+            backgroundImg={mediumImg}
+            projectUrl="/medium"
+            tech="Built with Next.JS"
           />
         </div>
       </div>
