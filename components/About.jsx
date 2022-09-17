@@ -22,7 +22,7 @@ const About = () => {
             transitioned into the IT field in 2017. Having first starting out
             performing helpdesk functions, I eventually moved up to the position
             of System Administrator and Communication Watch Officer. During my
-            last deplyment I started learning HTML, CSS, and JavaScript which
+            last deployment I started learning HTML, CSS, and JavaScript which
             quickly turned into a love for programming.
           </p>
           <p className="py-2 text-gray-600">
@@ -32,7 +32,7 @@ const About = () => {
             then started working with The Institute to Advance Diversity
             building full-stack components using React JS, C# and MS SQL Server.
             I am now spending my time building projects with Astro, Next JS,
-            React JS, C#, Firebase, and learning new technologies.
+            React JS, C#, and learning new and exciting technologies.
           </p>
           <Link href="/#projects">
             <p className="py-2 text-gray-600 underline cursor-pointer">
